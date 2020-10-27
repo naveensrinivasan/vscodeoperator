@@ -1,0 +1,7 @@
+domain: naveensrinivasan.dev
+repo: github.com/naveensrinivasan
+resources:
+- group: vscode
+  kind: Server
+  version: v1alpha1
+version: "2"
