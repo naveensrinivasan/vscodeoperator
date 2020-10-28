@@ -2,6 +2,3 @@ apiVersion: vscode.naveensrinivasan.dev/v1alpha1
 kind: Server
 metadata:
   name: naveen-codeserver
-spec:
-  # Add fields here
-  foo: bar

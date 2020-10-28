@@ -1,0 +1,12 @@
+apiVersion: vscode.naveensrinivasan.dev/v1alpha1
+kind: Server
+metadata:
+  name: naveen-codeserver
+spec:
+  resources:
+      requests:
+        memory: "64Mi"
+        cpu: "250m"
+      limits:
+        memory: "128Mi"
+        cpu: "500m"
